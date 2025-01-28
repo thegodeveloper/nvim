@@ -2,6 +2,11 @@
 
 In this repository I have my Neovim configuration to support development in Rust, Go and C++.
 
+## Requirements
+
+- sudo apt install python3-venv
+- brew install lazygit
+
 ## ToDo
 
 - Improve the `Rust` configuration. [Done]

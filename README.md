@@ -6,6 +6,7 @@ In this repository I have my Neovim configuration to support development in Rust
 
 - sudo apt install python3-venv
 - brew install lazygit
+- Install NodeJS from nodejs.org
 
 ## ToDo
 
